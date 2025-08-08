@@ -4,8 +4,11 @@
 
 ## Profile
 ### Language
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H21465&layout=compact&theme=tokyonight)
 ## Stats
 ![](https://raw.githubusercontent.com/H21465/H21465/output/github-contribution-grid-snake.svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotafujie&theme=github)
 
 <p align="left">
 	<a href="https://github.com/H21465">
