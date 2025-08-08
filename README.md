@@ -8,7 +8,7 @@
 ## Stats
 ![](https://raw.githubusercontent.com/H21465/H21465/output/github-contribution-grid-snake.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotafujie&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H21465&theme=github)
 
 <p align="left">
 	<a href="https://github.com/H21465">
