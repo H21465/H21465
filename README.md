@@ -1,10 +1,30 @@
 ## 👋 About
 
-I am a Deaf researcher specializing in music accessibility and human-computer interaction. My research focuses on developing vibrotactile feedback systems that support accurate singing timing for Deaf and Hard-of-Hearing individuals. By integrating signal processing, machine learning, and embedded systems design, I aim to achieve precise synchronization between audio and vibrotactile stimuli. In addition, I explore personalized optimization of vibrotactile timing to accommodate individual perceptual differences. Through this work, I strive to realize music accessibility that is understandable and meaningful for Deaf and Hard-of-Hearing people—especially those inspired to sing.
+Deaf researcher specializing in **Music Accessibility** and **Human-Computer Interaction**.
 
-### 🛠 Skills
+### Research Focus
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,python,js,ts,html,css,md,tauri,vue,swift,rust,ruby,r,flutter" />
+- Developing **vibrotactile feedback systems** for accurate singing timing
+- Integrating signal processing, machine learning, and embedded systems
+- Optimizing vibrotactile timing for individual perceptual differences
+
+### Goal
+
+Realizing music accessibility that is meaningful for Deaf and Hard-of-Hearing people—especially those inspired to sing.
+
+### 🛠 My Favorite
+
+**Languages**
+
+<img alt="languages" src="https://skillicons.dev/icons?theme=light&perline=7&i=c,cpp,rust,swift,java,python,ts,js,html,css,md" />
+
+**Frameworks**
+
+<img alt="frameworks" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,vue,tauri,nodejs,express,flask,fastapi" />
+
+**DB and Tools etc**
+
+<img alt="tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=git,github,vscode,neovim,postgresql,sqlite,firebase,docker,cmake,obsidian" />
 
 ## 📨 Contact
 
