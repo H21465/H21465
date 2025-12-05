@@ -8,10 +8,6 @@ I am a Deaf researcher specializing in music accessibility and human-computer in
 
 
 ## 📈 Stats
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H21465&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=H21465" />
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/tsuki-lab/)
 
