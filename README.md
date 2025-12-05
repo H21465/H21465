@@ -1,22 +1,23 @@
-# hayamamo
+## 👋 About
 
-ろう・難聴者の音楽体験の向上のため，日々研究に励んでいます！
+I am a Deaf researcher specializing in music accessibility and human-computer interaction. My research focuses on developing vibrotactile feedback systems that support accurate singing timing for Deaf and Hard-of-Hearing individuals. By integrating signal processing, machine learning, and embedded systems design, I aim to achieve precise synchronization between audio and vibrotactile stimuli. In addition, I explore personalized optimization of vibrotactile timing to accommodate individual perceptual differences. Through this work, I strive to realize music accessibility that is understandable and meaningful for Deaf and Hard-of-Hearing people—especially those inspired to sing.
+
+### 🛠 Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,python,js,ts,html,css,md,tauri,vue,swift,rust,ruby,r,flutter" />
 
 
-## Stats
+## 📈 Stats
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H21465&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=H21465" />
+</p>
 
-<!-- プロフィール詳細 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayamamo&theme=github)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/tsuki-lab/)
 
-<!-- ヘビを走らせる -->
-![](https://raw.githubusercontent.com/hayamamo/hayamamo/output/github-contribution-grid-snake.svg)
+## 📨 Contact
 
-<!-- よく使っている言語 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayamamo&layout=compact&theme=github)
+**[Portfolio](https://www.hayamamo.com)** | **[X](https://x.com/prohy142648)**
 
-<!-- コミット履歴 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hayamamo&theme=github&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hayamamo&theme=github)
----
+<!-- ヘビを走らせる
+![](https://raw.githubusercontent.com/hayamamo/hayamamo/output/github-contribution-grid-snake.svg) -->
