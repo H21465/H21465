@@ -6,11 +6,6 @@ I am a Deaf researcher specializing in music accessibility and human-computer in
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,python,js,ts,html,css,md,tauri,vue,swift,rust,ruby,r,flutter" />
 
-
-## 📈 Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=H21465&margin-w=5)](https://github.com/H21465/)
-
 ## 📨 Contact
 
 **[Portfolio](https://www.hayamamo.com)** | **[X](https://x.com/prohy142648)**
